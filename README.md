@@ -1,7 +1,7 @@
 # React TV
 
 ![A show is selected from a list of shows. The episodes of the show are displayed alongside more information about a selected episode.](example.png)
-
+ 
 Previously, you built an app that displays the episodes of a single TV show. This time, you'll work on React TV: a web streaming platform that allows users to browse through the episodes of a variety of different shows.
 
 A [live demo of the finished project](https://fsa-react-tv.netlify.app/) is available as
